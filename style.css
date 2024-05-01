@@ -75,6 +75,7 @@ footer {
     width: 100%;
     padding: 1rem;
     background-color: #59D9A1;
+    align-items: flex-end;
 }
 
 /* CODE YOUR FLEXBOXES HERE */
